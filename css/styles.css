@@ -1,0 +1,68 @@
+body {
+    background-color: #feffde;
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+
+h1 {
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    margin:0;
+    padding: 5px;
+}
+
+img{
+    border-radius: 50%;
+    padding: 3px;
+}
+
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    font-size: large;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left:30%;
+    bottom: 60%;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 30%;
+    top: 10%;
+}
+
+.hr-skills {
+    border-style: none;
+    border-top: dotted;
+    border-color:#f38181;
+    border-width: 5px;
+    width: 10%;
+}
+
+#me {
+    border-radius: 50%;
+    width: 250px;
+    padding-top: 10px;
+}
